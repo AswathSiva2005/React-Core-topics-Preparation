@@ -1,0 +1,20 @@
+.navBar{
+    background-color: lightcyan;
+    display: flex;
+}
+
+.ul{
+    margin-left: 50%;
+    margin-top: 30px;
+}
+
+.links{
+    cursor: pointer;
+    text-decoration: none;
+    margin-left: 50px;
+}
+
+.links:hover{
+    color: red;
+    text-decoration: dashed;
+}

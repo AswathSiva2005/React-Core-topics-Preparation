@@ -1,0 +1,57 @@
+.home{
+    background-color: black;
+    color: white;
+    border-radius: 5px;
+    padding: 5px;
+    margin-left: 65%;
+    text-decoration: none;
+    transition: 0.4s;
+    border: 0.5px solid black;
+}
+.home:hover{
+    background-color: white;
+    color: black;
+}
+
+.about{
+    background-color: black;
+    color: white;
+    border-radius: 5px;
+    padding: 5px;
+    margin-left: 5%;
+    text-decoration: none;
+    transition: 0.4s;
+    border: 0.5px solid black;
+
+}
+.about:hover{
+    background-color: white;
+    color: black;
+}
+
+.contact{
+    background-color: black;
+    color: white;
+    border-radius: 5px;
+    padding: 5px;
+    margin-left: 5%;
+    text-decoration: none;
+    transition: 0.4s;
+    border: 0.5px solid black;
+
+}
+.contact:hover{
+    background-color: white;
+    color: black;
+}
+
+.navBar{
+    background-color: white;
+    border: 1px solid black;
+    border-radius: 10px;
+    height: 70px;
+}
+
+.ul{
+    padding: 0%;
+}
