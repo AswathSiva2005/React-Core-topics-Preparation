@@ -1,0 +1,23 @@
+.header{
+    
+}
+
+.links{
+    text-decoration: none;
+    color: #a1a1aa;
+    font-family: sans-serif;
+    margin-left: 70px;
+}
+.links:hover{
+    color: #ff6b2b;
+    text-decoration: dashed;
+}
+
+.navBar{
+    margin-top: 1px;
+    border: 2px solid black;
+    border-radius: 5px;
+    /* display: flex; */
+    background-color: black;
+    padding-bottom: 30px;
+}

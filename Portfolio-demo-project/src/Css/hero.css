@@ -1,0 +1,18 @@
+*{
+    background-color: black;
+}
+
+.wholeDiv{
+    border: 1px solid black;
+    height: 640px;
+}
+
+.contentDiv{
+    padding: 100px;
+}
+
+.img{
+    height: 500px;
+    border-radius: 50px;
+    margin-left: 100px;
+}
